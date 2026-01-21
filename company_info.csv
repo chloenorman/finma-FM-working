@@ -1,0 +1,21 @@
+symbol,company,sector,industry,market_cap,pe_ratio,dividend_yield
+AAPL,Apple Inc.,Technology,Consumer Electronics,3000.5,28.5,0.5
+MSFT,Microsoft Corporation,Technology,Software,2800.2,32.1,0.7
+GOOGL,Alphabet Inc.,Technology,Internet Services,1750.8,25.4,0.0
+AMZN,Amazon.com Inc.,Technology,E-commerce,1650.3,45.2,0.0
+TSLA,Tesla Inc.,Technology,Electric Vehicles,850.7,75.8,0.0
+META,Meta Platforms Inc.,Technology,Social Media,800.4,22.9,0.0
+NVDA,NVIDIA Corporation,Technology,Semiconductors,1200.9,68.3,0.1
+JPM,JPMorgan Chase & Co.,Financials,Banking,480.6,12.8,2.3
+BAC,Bank of America Corp,Financials,Banking,325.4,11.5,2.8
+WFC,Wells Fargo & Company,Financials,Banking,180.2,10.2,2.5
+JNJ,Johnson & Johnson,Healthcare,Pharmaceuticals,425.8,16.4,2.6
+PFE,Pfizer Inc.,Healthcare,Pharmaceuticals,280.3,13.7,3.2
+UNH,UnitedHealth Group Inc.,Healthcare,Health Insurance,520.9,24.1,1.3
+XOM,Exxon Mobil Corporation,Energy,Oil & Gas,450.2,14.8,5.8
+CVX,Chevron Corporation,Energy,Oil & Gas,320.7,15.2,3.1
+COP,ConocoPhillips,Energy,Oil & Gas,140.5,12.3,2.0
+WMT,Walmart Inc.,Consumer Staples,Retail,450.8,26.7,1.6
+PG,Procter & Gamble Co.,Consumer Staples,Personal Care,380.2,25.3,2.4
+KO,The Coca-Cola Company,Consumer Staples,Beverages,260.4,24.8,3.0
+HD,The Home Depot Inc.,Consumer Discretionary,Home Improvement,350.6,22.1,2.5
