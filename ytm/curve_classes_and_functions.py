@@ -75,6 +75,8 @@ def exp_interp(xs, ys, x):
     
     # Find the interval [x0, x1] where x0 <= x <= x1
     idx = np.searchsorted(xs, x) - 1
+    idx = max(0, min(idx, len(xs)-2))
+    
     x0, x1 = xs[idx], xs[idx + 1]
     y0, y1 = ys[idx], ys[idx + 1]
     
